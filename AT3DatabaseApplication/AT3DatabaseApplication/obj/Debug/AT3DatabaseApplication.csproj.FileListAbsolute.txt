@@ -1,0 +1,12 @@
+F:\Tafe\Semester 2\ICTPRG527 Intermediate Obj-Ori Wed CSharp\Assignments\Assignment 3\AT3DatabaseApplication\AT3DatabaseApplication\bin\Debug\AT3DatabaseApplication.exe.config
+F:\Tafe\Semester 2\ICTPRG527 Intermediate Obj-Ori Wed CSharp\Assignments\Assignment 3\AT3DatabaseApplication\AT3DatabaseApplication\bin\Debug\AT3DatabaseApplication.exe
+F:\Tafe\Semester 2\ICTPRG527 Intermediate Obj-Ori Wed CSharp\Assignments\Assignment 3\AT3DatabaseApplication\AT3DatabaseApplication\bin\Debug\AT3DatabaseApplication.pdb
+F:\Tafe\Semester 2\ICTPRG527 Intermediate Obj-Ori Wed CSharp\Assignments\Assignment 3\AT3DatabaseApplication\AT3DatabaseApplication\obj\Debug\AT3DatabaseApplication.csprojAssemblyReference.cache
+F:\Tafe\Semester 2\ICTPRG527 Intermediate Obj-Ori Wed CSharp\Assignments\Assignment 3\AT3DatabaseApplication\AT3DatabaseApplication\obj\Debug\AT3DatabaseApplication.Form1.resources
+F:\Tafe\Semester 2\ICTPRG527 Intermediate Obj-Ori Wed CSharp\Assignments\Assignment 3\AT3DatabaseApplication\AT3DatabaseApplication\obj\Debug\AT3DatabaseApplication.Properties.Resources.resources
+F:\Tafe\Semester 2\ICTPRG527 Intermediate Obj-Ori Wed CSharp\Assignments\Assignment 3\AT3DatabaseApplication\AT3DatabaseApplication\obj\Debug\AT3DatabaseApplication.csproj.GenerateResource.cache
+F:\Tafe\Semester 2\ICTPRG527 Intermediate Obj-Ori Wed CSharp\Assignments\Assignment 3\AT3DatabaseApplication\AT3DatabaseApplication\obj\Debug\AT3DatabaseApplication.csproj.CoreCompileInputs.cache
+F:\Tafe\Semester 2\ICTPRG527 Intermediate Obj-Ori Wed CSharp\Assignments\Assignment 3\AT3DatabaseApplication\AT3DatabaseApplication\obj\Debug\AT3DatabaseApplication.exe
+F:\Tafe\Semester 2\ICTPRG527 Intermediate Obj-Ori Wed CSharp\Assignments\Assignment 3\AT3DatabaseApplication\AT3DatabaseApplication\obj\Debug\AT3DatabaseApplication.pdb
+F:\Tafe\Semester 2\ICTPRG527 Intermediate Obj-Ori Wed CSharp\Assignments\Assignment 3\AT3DatabaseApplication\AT3DatabaseApplication\obj\Debug\AT3DatabaseApplication.UpdateSelectedCustomer.resources
+F:\Tafe\Semester 2\ICTPRG527 Intermediate Obj-Ori Wed CSharp\Assignments\Assignment 3\AT3DatabaseApplication\AT3DatabaseApplication\obj\Debug\AT3DatabaseApplication.AddRecordForm.resources
